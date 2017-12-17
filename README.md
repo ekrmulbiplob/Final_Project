@@ -1,1 +1,3 @@
-# Final_Project
+About my project
+
+EARS is a web based Employment Application Review System for International School. The system is implemented in PHP platform. The main aim of this software is review school faculty members application and also can find best job applicant. The system will helpful for all school. In ordinary process, it is very difficult to find best applicant and review them. But by using this system you can easily do this. The function of the system is very simple and also user friendly. The system connects to database, so you can store all applicant data. Applicant have to login this system, can add new account, review applicant, account setting etc.
