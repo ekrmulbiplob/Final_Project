@@ -1,0 +1,74 @@
+ body{
+		background-image:url('tropical_island_palm_trees_90880_1920x1080.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+}
+
+.container{
+	width: 600px;
+	height: 750px;
+	margin-top: 80px;
+	margin-left: 360px;
+	background: rgba(15,15,88,0.7);
+	border-radius: 15px;
+	text-align: center;
+}
+
+.container h1{
+	color:#FFA500;
+	font-size: 40px;
+	Padding-top: 40px;
+
+}
+
+input[type="text"],input[type="password"],input[type="email"],input[type="date"]{
+	width:  220px;
+	height: 33px;
+	margin-bottom: 5px;
+	font-size: 18px;
+    border: 1px solid #000;
+	padding-left: 45px;
+	border-radius: 7px;
+	border: 3px solid rgba(15,15,88,1);
+	
+}
+input[type="checkbox"], input[type="radio"]{
+	width:  17px;
+	height: 17px;
+	margin-left: 10px;
+	border: 3px solid rgba(15,15,88,1);
+	border-radius: 7px;
+
+}
+select{
+	width:  100px;
+	height: 30px;
+	margin-left: 10px;
+	border: 3px solid rgba(15,15,88,1);
+	border-radius: 7px;
+}
+input[type="submit"]{
+	width:  100px;
+	height: 30px;
+	background: #150;
+	color: #fff;
+	border: none;
+	margin-bottom: 30px;
+	cursor; pointer;
+	font-size:18px;
+	margin-left: 30px;
+    border-radius: 7px;
+	border: 3px solid rgba(15,15,88,1);
+}
+label{
+	font-family: arial;
+	font-size:18px;
+	color:#fff;
+}
+option{
+	font-family: arial;
+	font-size:15px;
+}
+
+
+
